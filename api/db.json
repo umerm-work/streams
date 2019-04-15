@@ -4,6 +4,31 @@
       "title": "My stream",
       "description": "This is great stream",
       "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "id": 3
+    },
+    {
+      "title": "Attemp to edit stream",
+      "description": "This is description of stream",
+      "id": 4
+    },
+    {
+      "title": "Heelo",
+      "description": "This should not",
+      "id": 5
+    },
+    {
+      "title": "My Test Title",
+      "description": "Watch me refacrtor sonce",
+      "id": 6
     }
   ]
 }
